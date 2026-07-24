@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>视频嵌入效果演示</title>
+  <style>
+    body {
+      background: #0f0f0f;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: system-ui, sans-serif;
+    }
+    .card {
+      background: #1e1e2e;
+      border-radius: 16px;
+      padding: 30px;
+      max-width: 700px;
+      width: 90%;
+    }
+    .card h2 {
+      color: #fff;
+      margin: 0 0 8px 0;
+    }
+    .card p {
+      color: #aaa;
+      margin: 0 0 20px 0;
+    }
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%; /* 16:9 比例 */
+      border-radius: 12px;
+      overflow: hidden;
+      background: #000;
+    }
+    .video-placeholder {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      color: #888;
+      font-size: 14px;
+      background: linear-gradient(135deg, #1a1a2e, #16213e);
+      border: 1px solid #333;
+      border-radius: 12px;
+    }
+    .play-icon {
+      font-size: 60px;
+      color: #4fc3f7;
+      margin-bottom: 12px;
+    }
+    .tag {
+      display: inline-block;
+      background: #4fc3f722;
+      color: #4fc3f7;
+      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: 6px;
+      margin-top: 16px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>🎮 作品名称：xxx</h2>
+    <p>💡 用 AI 生成游戏素材，零美术基础做游戏</p>
+
+    <!-- 这就是嵌入视频的位置 ↓ -->
+    <div class="video-wrapper">
+      <div class="video-placeholder">
+        <div class="play-icon">▶</div>
+        <div>🎬 视频会直接在这里播放</div>
+        <div style="color: #555; font-size: 12px; margin-top: 4px;">YouTube / B站 嵌入式播放器</div>
+      </div>
+    </div>
+
+    <div class="tag">▶️ 页面内直接观看 · 不跳转</div>
+  </div>
+</body>
+</html>

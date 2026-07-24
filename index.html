@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>✨ AI 编程灵感板 — Vibcoding 热门作品</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ======= 顶部导航栏 ======= -->
+  <nav class="navbar">
+    <div class="navbar-inner">
+      <a href="#" class="nav-logo">
+        <i class="fa-solid fa-bolt"></i>
+        Vibcoding 分析
+      </a>
+      <div class="nav-links">
+        <a href="#github"><i class="fa-brands fa-github"></i> <span class="link-text">GitHub 项目</span></a>
+        <a href="#viral"><i class="fa-solid fa-fire"></i> <span class="link-text">热门案例</span></a>
+        <a href="#stats"><i class="fa-solid fa-chart-simple"></i> <span class="link-text">趋势</span></a>
+        <a href="https://github.com/topics/vibe-coding" target="_blank" rel="noopener" title="GitHub 话题">
+          <i class="fa-brands fa-github"></i>
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- ======= Hero 区域 ======= -->
+  <section class="hero">
+    <div class="hero-badge">
+      <span class="dot"></span>
+      AI 编程新范式
+    </div>
+    <h1>✨ AI 编程灵感板</h1>
+    <p>
+      Vibe Coding（氛围编程）是一种全新的编程范式：开发者用自然语言描述需求，AI 负责生成和完善代码。
+      你不再是逐行码字的程序员，而是驾驭 AI 的产品创造者。这里收集了最值得关注的 Vibcoding 项目和作品，
+      翻一翻，找找灵感 💡
+    </p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <div class="num" id="statProjects">-</div>
+        <div class="label">GitHub 项目</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num" id="statWorks">-</div>
+        <div class="label">热门案例</div>
+      </div>
+      <div class="hero-stat">
+        <div class="num" id="statTotalStars">-</div>
+        <div class="label">总 Star 数</div>
+      </div>
+    </div>
+    <button class="shuffle-btn" id="shuffleBtn" title="随机发现一个灵感">
+      <i class="fa-solid fa-shuffle"></i>
+      随手翻一个 💡
+    </button>
+    <div class="shuffle-filter" id="shuffleFilter">
+      <span class="shuffle-filter-label">筛选：</span>
+      <button class="chip active" data-cat="all">全部</button>
+    </div>
+  </section>
+
+  <!-- ======= GitHub 热门项目 ======= -->
+  <section class="section" id="github">
+    <div class="section-header">
+      <i class="fa-brands fa-github"></i>
+      <h2>GitHub 热门项目</h2>
+      <span class="count" id="githubCount"></span>
+    </div>
+    <div class="filter-chips" id="githubFilters"></div>
+    <div class="card-grid" id="githubGrid"></div>
+  </section>
+
+  <!-- ======= Viral 作品案例 ======= -->
+  <section class="section" id="viral">
+    <div class="section-header">
+      <i class="fa-solid fa-fire"></i>
+      <h2>Viral 作品案例</h2>
+      <span class="count" id="viralCount"></span>
+    </div>
+    <div class="filter-chips" id="viralFilters"></div>
+    <div class="viral-grid" id="viralGrid"></div>
+  </section>
+
+  <!-- ======= 趋势/统计 ======= -->
+  <section class="section" id="stats">
+    <div class="section-header">
+      <i class="fa-solid fa-chart-simple"></i>
+      <h2>技术栈热力</h2>
+    </div>
+    <div class="stats-container" id="statsContainer"></div>
+  </section>
+
+  <!-- ======= 页脚 ======= -->
+  <footer class="footer">
+    <p>
+      <i class="fa-solid fa-robot"></i>
+      数据由 AI 搜集整理
+      <span class="divider">·</span>
+      更新于 2026-07-24
+    </p>
+  </footer>
+
+  <!-- ======= 数据 & 渲染脚本 ======= -->
+  <script src="script.js"></script>
+  </body>
+</html>
