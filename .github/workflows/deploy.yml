@@ -12,7 +12,8 @@ on:
     paths:
       - 'index.html'
       - 'style.css'
-      - 'data.js'
+      - 'data.json'
+      - 'script.js'
   workflow_dispatch:  # 允许手动触发
 
 # 设置 GITHUB_TOKEN 权限以允许部署到 Pages
