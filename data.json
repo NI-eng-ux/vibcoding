@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated": "2026-07-24",
+    "updated": "2026-07-25",
     "source": "AI 搜集整理",
     "description": "Vibcoding 热门作品分析数据 - GitHub Actions 自动更新 Star 数"
   },
@@ -8,9 +8,15 @@
     {
       "name": "onlook",
       "fullName": "onlook-dev/onlook",
-      "stars": "35.2k",
+      "stars": "26.3k",
       "description": "设计师的 Cursor —— 开源 AI 优先设计工具，可视化的用 AI 构建、编辑 React 应用",
-      "tags": ["TypeScript", "React", "Next.js", "Tailwind CSS", "AI"],
+      "tags": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Tailwind CSS",
+        "AI"
+      ],
       "category": "设计工具",
       "highlights": "开源 AI 设计工具标杆，直接可视化编辑 React 组件，被称作「设计师的 Cursor」",
       "inspiration": "不要只写代码，用 AI 直接「画」UI。视觉编辑 + AI 生成，设计即开发",
@@ -19,9 +25,14 @@
     {
       "name": "open-design",
       "fullName": "nexu-io/open-design",
-      "stars": "18.6k",
+      "stars": "81.4k",
       "description": "开源 Claude Design 替代品，本地优先桌面应用，让 AI 编程助手成为你的设计引擎",
-      "tags": ["TypeScript", "Desktop App", "AI Agent", "Design Tool"],
+      "tags": [
+        "TypeScript",
+        "Desktop App",
+        "AI Agent",
+        "Design Tool"
+      ],
       "category": "设计工具",
       "highlights": "支持 20+ CLI 工具（Claude Code / Codex / Cursor 等），可导出 HTML/PDF/PPTX/MP4",
       "inspiration": "把你的 AI 编程助手变成设计师。一份 DESIGN.md，任何 Agent 都能生成匹配的 UI",
@@ -30,9 +41,14 @@
     {
       "name": "serena",
       "fullName": "oraios/serena",
-      "stars": "12.3k",
+      "stars": "26.9k",
       "description": "强大的 MCP 编程工具包，提供语义检索和编辑能力 —— 给你 AI Agent 配备一个 IDE",
-      "tags": ["Python", "MCP", "Language Server", "AI Coding"],
+      "tags": [
+        "Python",
+        "MCP",
+        "Language Server",
+        "AI Coding"
+      ],
       "category": "开发工具",
       "highlights": "让你的 AI Agent 像人类一样理解和编辑代码，支持 JetBrains 和 VS Code",
       "inspiration": "写代码的最高境界，是让 AI 理解你的代码，而不是你理解 AI 的代码",
@@ -41,9 +57,15 @@
     {
       "name": "cherry-studio",
       "fullName": "CherryHQ/cherry-studio",
-      "stars": "28.9k",
+      "stars": "49.0k",
       "description": "AI 生产力工作室，智能聊天 + 自主 Agent + 300+ 助手，统一接入前沿大模型",
-      "tags": ["TypeScript", "AI Agent", "DeepSeek", "Claude", "LLM"],
+      "tags": [
+        "TypeScript",
+        "AI Agent",
+        "DeepSeek",
+        "Claude",
+        "LLM"
+      ],
       "category": "AI 平台",
       "highlights": "一站式 AI 工作站，同时接入 GPT、Claude、Gemini、DeepSeek 等模型",
       "inspiration": "AI 时代不需要在多个工具间切换，一个工作室，搞定所有模型和 Agent",
@@ -52,9 +74,15 @@
     {
       "name": "easy-vibe",
       "fullName": "datawhalechina/easy-vibe",
-      "stars": "8.2k",
+      "stars": "18.5k",
       "description": "Vibe Coding 2026 入门到精通教程，面向零基础的第一门现代编程课",
-      "tags": ["JavaScript", "教程", "AI", "MCP", "Next.js"],
+      "tags": [
+        "JavaScript",
+        "教程",
+        "AI",
+        "MCP",
+        "Next.js"
+      ],
       "category": "教程",
       "highlights": "Datawhale 出品，国内最系统的 Vibe Coding 开源学习教程",
       "inspiration": "编程不再是门槛，会用自然语言就能创造。从零开始，AI 陪你写第一行代码",
@@ -63,9 +91,15 @@
     {
       "name": "ai-guide",
       "fullName": "liyupi/ai-guide",
-      "stars": "15.7k",
+      "stars": "17.7k",
       "description": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，涵盖大模型玩法、AI 编程、变现指南",
-      "tags": ["JavaScript", "Vue", "教程", "AI", "LLM"],
+      "tags": [
+        "JavaScript",
+        "Vue",
+        "教程",
+        "AI",
+        "LLM"
+      ],
       "category": "教程",
       "highlights": "国内最全的 AI 开发者资源导航，从 Prompt 到 Agent Skills 全覆盖",
       "inspiration": "学 AI 编程最好的时间是 2025 年，其次就是现在。从零到变现，一条龙资源",
@@ -74,9 +108,14 @@
     {
       "name": "context7",
       "fullName": "upstash/context7",
-      "stars": "9.4k",
+      "stars": "59.7k",
       "description": "为 LLM 和 AI 代码编辑器提供最新代码文档的平台，解决 AI 知识截止日期问题",
-      "tags": ["TypeScript", "MCP", "LLM", "Documentation"],
+      "tags": [
+        "TypeScript",
+        "MCP",
+        "LLM",
+        "Documentation"
+      ],
       "category": "开发工具",
       "highlights": "Upstash 出品，让 AI 编程助手获得到最新库和框架的实时文档",
       "inspiration": "AI 不知道最新 API？给它喂实时文档。知识的时效性决定了代码的质量",
@@ -85,9 +124,14 @@
     {
       "name": "understand-anything",
       "fullName": "Egonex-AI/Understand-Anything",
-      "stars": "6.8k",
+      "stars": "76.0k",
       "description": "把任何代码变成可探索、可搜索、可提问的交互式知识图谱",
-      "tags": ["TypeScript", "Knowledge Graph", "AI", "Claude Code"],
+      "tags": [
+        "TypeScript",
+        "Knowledge Graph",
+        "AI",
+        "Claude Code"
+      ],
       "category": "开发工具",
       "highlights": "让 AI 帮你理解复杂代码库，支持 Claude Code、Codex、Cursor 等",
       "inspiration": "面对陌生代码库不再恐惧，AI 帮你画知识图谱，复杂系统一目了然",
@@ -96,9 +140,15 @@
     {
       "name": "superset",
       "fullName": "superset-sh/superset",
-      "stars": "11.5k",
+      "stars": "12.6k",
       "description": "AI Agent 时代的代码编辑器，在你的机器上运行一组 Claude Code / Codex 等 Agent",
-      "tags": ["TypeScript", "Electron", "AI Agent", "CLI", "MCP"],
+      "tags": [
+        "TypeScript",
+        "Electron",
+        "AI Agent",
+        "CLI",
+        "MCP"
+      ],
       "category": "开发工具",
       "highlights": "管理多个 AI 编程 Agent 并行工作，Git Worktree 隔离，生产力翻倍",
       "inspiration": "一个 AI Agent 不够？开 10 个并行干活。人类负责调度，AI 负责执行",
@@ -107,9 +157,14 @@
     {
       "name": "awesome-design-md",
       "fullName": "VoltAgent/awesome-design-md",
-      "stars": "7.1k",
+      "stars": "104.4k",
       "description": "收集热门品牌设计系统的 DESIGN.md 文件，让 AI Agent 生成匹配的 UI 界面",
-      "tags": ["Design System", "Figma", "AI", "Landing Page"],
+      "tags": [
+        "Design System",
+        "Figma",
+        "AI",
+        "Landing Page"
+      ],
       "category": "设计工具",
       "highlights": "丢一个 DESIGN.md 到项目里，AI 就能自动生成符合品牌风格的界面",
       "inspiration": "设计规范的终极形态：不是 Figma 文件，而是一份 AI 能读懂的 Markdown",
@@ -118,9 +173,14 @@
     {
       "name": "vibe-coding-cn",
       "fullName": "tradecatlabs/vibe-coding-cn",
-      "stars": "5.3k",
+      "stars": "15.6k",
       "description": "Vibe Coding 从入门到精通教程，AI 结对编程工作流，Prompt、Skill、Workflow 实战指南",
-      "tags": ["Python", "教程", "AI Programming", "Prompt Engineering"],
+      "tags": [
+        "Python",
+        "教程",
+        "AI Programming",
+        "Prompt Engineering"
+      ],
       "category": "教程",
       "highlights": "中文 Vibe Coding 实战教程，从 Prompt 技巧到上下文管理全面覆盖",
       "inspiration": "Vibe Coding 不等于瞎聊，好的 Prompt 工程才是产出高质量代码的关键",
@@ -129,9 +189,14 @@
     {
       "name": "khazix-skills",
       "fullName": "KKKKhazix/khazix-skills",
-      "stars": "4.8k",
+      "stars": "17.9k",
       "description": "数字生命卡兹克开源的 AI Skills 合集，包含文档洁癖、数据可视化分析、写作助手等",
-      "tags": ["Python", "Skills", "AI Agent", "Claude Code"],
+      "tags": [
+        "Python",
+        "Skills",
+        "AI Agent",
+        "Claude Code"
+      ],
       "category": "AI 平台",
       "highlights": "知名科技博主卡兹克开源的 Agent Skills，支持 Claude Code、Codex 等 40+ Agent",
       "inspiration": "给 AI Agent 装「技能包」，让它从通用助手变成领域专家，效率提升 10 倍",
@@ -205,17 +270,53 @@
     }
   ],
   "techStats": [
-    { "name": "TypeScript", "count": 8 },
-    { "name": "JavaScript", "count": 6 },
-    { "name": "Python", "count": 5 },
-    { "name": "AI Agent", "count": 7 },
-    { "name": "Claude Code", "count": 6 },
-    { "name": "MCP", "count": 5 },
-    { "name": "React", "count": 4 },
-    { "name": "LLM", "count": 4 },
-    { "name": "Codex", "count": 3 },
-    { "name": "Next.js", "count": 3 },
-    { "name": "教程", "count": 3 },
-    { "name": "Design", "count": 3 }
+    {
+      "name": "TypeScript",
+      "count": 8
+    },
+    {
+      "name": "JavaScript",
+      "count": 6
+    },
+    {
+      "name": "Python",
+      "count": 5
+    },
+    {
+      "name": "AI Agent",
+      "count": 7
+    },
+    {
+      "name": "Claude Code",
+      "count": 6
+    },
+    {
+      "name": "MCP",
+      "count": 5
+    },
+    {
+      "name": "React",
+      "count": 4
+    },
+    {
+      "name": "LLM",
+      "count": 4
+    },
+    {
+      "name": "Codex",
+      "count": 3
+    },
+    {
+      "name": "Next.js",
+      "count": 3
+    },
+    {
+      "name": "教程",
+      "count": 3
+    },
+    {
+      "name": "Design",
+      "count": 3
+    }
   ]
 }
