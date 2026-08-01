@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated": "2026-07-31",
+    "updated": "2026-08-01",
     "source": "AI 搜集整理",
     "description": "Vibcoding 热门作品分析数据 - GitHub Actions 自动更新 Star 数"
   },
@@ -25,7 +25,7 @@
     {
       "name": "open-design",
       "fullName": "nexu-io/open-design",
-      "stars": "82.8k",
+      "stars": "83.0k",
       "description": "开源 Claude Design 替代品，本地优先桌面应用，让 AI 编程助手成为你的设计引擎",
       "tags": [
         "TypeScript",
@@ -74,7 +74,7 @@
     {
       "name": "easy-vibe",
       "fullName": "datawhalechina/easy-vibe",
-      "stars": "18.6k",
+      "stars": "18.7k",
       "description": "Vibe Coding 2026 入门到精通教程，面向零基础的第一门现代编程课",
       "tags": [
         "JavaScript",
@@ -124,7 +124,7 @@
     {
       "name": "understand-anything",
       "fullName": "Egonex-AI/Understand-Anything",
-      "stars": "76.9k",
+      "stars": "77.0k",
       "description": "把任何代码变成可探索、可搜索、可提问的交互式知识图谱",
       "tags": [
         "TypeScript",
@@ -157,7 +157,7 @@
     {
       "name": "awesome-design-md",
       "fullName": "VoltAgent/awesome-design-md",
-      "stars": "105.6k",
+      "stars": "105.8k",
       "description": "收集热门品牌设计系统的 DESIGN.md 文件，让 AI Agent 生成匹配的 UI 界面",
       "tags": [
         "Design System",
@@ -189,7 +189,7 @@
     {
       "name": "khazix-skills",
       "fullName": "KKKKhazix/khazix-skills",
-      "stars": "18.8k",
+      "stars": "18.9k",
       "description": "数字生命卡兹克开源的 AI Skills 合集，包含文档洁癖、数据可视化分析、写作助手等",
       "tags": [
         "Python",
