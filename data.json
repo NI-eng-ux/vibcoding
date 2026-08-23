@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated": "2026-08-21",
+    "updated": "2026-08-23",
     "source": "AI 搜集整理",
     "description": "Vibcoding 热门作品分析数据 - GitHub Actions 自动更新 Star 数"
   },
@@ -25,7 +25,7 @@
     {
       "name": "open-design",
       "fullName": "nexu-io/open-design",
-      "stars": "89.8k",
+      "stars": "90.4k",
       "description": "开源 Claude Design 替代品，本地优先桌面应用，让 AI 编程助手成为你的设计引擎",
       "tags": [
         "TypeScript",
@@ -41,7 +41,7 @@
     {
       "name": "serena",
       "fullName": "oraios/serena",
-      "stars": "28.3k",
+      "stars": "28.4k",
       "description": "强大的 MCP 编程工具包，提供语义检索和编辑能力 —— 给你 AI Agent 配备一个 IDE",
       "tags": [
         "Python",
@@ -57,7 +57,7 @@
     {
       "name": "cherry-studio",
       "fullName": "CherryHQ/cherry-studio",
-      "stars": "50.8k",
+      "stars": "50.9k",
       "description": "AI 生产力工作室，智能聊天 + 自主 Agent + 300+ 助手，统一接入前沿大模型",
       "tags": [
         "TypeScript",
@@ -74,7 +74,7 @@
     {
       "name": "easy-vibe",
       "fullName": "datawhalechina/easy-vibe",
-      "stars": "19.0k",
+      "stars": "19.1k",
       "description": "Vibe Coding 2026 入门到精通教程，面向零基础的第一门现代编程课",
       "tags": [
         "JavaScript",
@@ -108,7 +108,7 @@
     {
       "name": "context7",
       "fullName": "upstash/context7",
-      "stars": "61.0k",
+      "stars": "61.1k",
       "description": "为 LLM 和 AI 代码编辑器提供最新代码文档的平台，解决 AI 知识截止日期问题",
       "tags": [
         "TypeScript",
@@ -124,7 +124,7 @@
     {
       "name": "understand-anything",
       "fullName": "Egonex-AI/Understand-Anything",
-      "stars": "79.9k",
+      "stars": "80.1k",
       "description": "把任何代码变成可探索、可搜索、可提问的交互式知识图谱",
       "tags": [
         "TypeScript",
@@ -157,7 +157,7 @@
     {
       "name": "awesome-design-md",
       "fullName": "VoltAgent/awesome-design-md",
-      "stars": "109.5k",
+      "stars": "109.7k",
       "description": "收集热门品牌设计系统的 DESIGN.md 文件，让 AI Agent 生成匹配的 UI 界面",
       "tags": [
         "Design System",
@@ -173,7 +173,7 @@
     {
       "name": "vibe-coding-cn",
       "fullName": "tradecatlabs/vibe-coding-cn",
-      "stars": "15.9k",
+      "stars": "16.0k",
       "description": "Vibe Coding 从入门到精通教程，AI 结对编程工作流，Prompt、Skill、Workflow 实战指南",
       "tags": [
         "Python",
@@ -189,7 +189,7 @@
     {
       "name": "khazix-skills",
       "fullName": "KKKKhazix/khazix-skills",
-      "stars": "19.9k",
+      "stars": "20.0k",
       "description": "数字生命卡兹克开源的 AI Skills 合集，包含文档洁癖、数据可视化分析、写作助手等",
       "tags": [
         "Python",
