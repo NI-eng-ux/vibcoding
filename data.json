@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "updated": "2026-09-29",
+    "updated": "2026-10-01",
     "source": "AI 搜集整理",
     "description": "Vibcoding 热门作品分析数据 - GitHub Actions 自动更新 Star 数"
   },
@@ -25,7 +25,7 @@
     {
       "name": "open-design",
       "fullName": "nexu-io/open-design",
-      "stars": "98.5k",
+      "stars": "99.0k",
       "description": "开源 Claude Design 替代品，本地优先桌面应用，让 AI 编程助手成为你的设计引擎",
       "tags": [
         "TypeScript",
@@ -57,7 +57,7 @@
     {
       "name": "cherry-studio",
       "fullName": "CherryHQ/cherry-studio",
-      "stars": "52.2k",
+      "stars": "52.3k",
       "description": "AI 生产力工作室，智能聊天 + 自主 Agent + 300+ 助手，统一接入前沿大模型",
       "tags": [
         "TypeScript",
@@ -108,7 +108,7 @@
     {
       "name": "context7",
       "fullName": "upstash/context7",
-      "stars": "62.5k",
+      "stars": "62.6k",
       "description": "为 LLM 和 AI 代码编辑器提供最新代码文档的平台，解决 AI 知识截止日期问题",
       "tags": [
         "TypeScript",
@@ -124,7 +124,7 @@
     {
       "name": "understand-anything",
       "fullName": "Egonex-AI/Understand-Anything",
-      "stars": "84.6k",
+      "stars": "84.9k",
       "description": "把任何代码变成可探索、可搜索、可提问的交互式知识图谱",
       "tags": [
         "TypeScript",
@@ -140,7 +140,7 @@
     {
       "name": "superset",
       "fullName": "superset-sh/superset",
-      "stars": "14.7k",
+      "stars": "14.8k",
       "description": "AI Agent 时代的代码编辑器，在你的机器上运行一组 Claude Code / Codex 等 Agent",
       "tags": [
         "TypeScript",
@@ -157,7 +157,7 @@
     {
       "name": "awesome-design-md",
       "fullName": "VoltAgent/awesome-design-md",
-      "stars": "118.6k",
+      "stars": "119.0k",
       "description": "收集热门品牌设计系统的 DESIGN.md 文件，让 AI Agent 生成匹配的 UI 界面",
       "tags": [
         "Design System",
@@ -173,7 +173,7 @@
     {
       "name": "vibe-coding-cn",
       "fullName": "tradecatlabs/vibe-coding-cn",
-      "stars": "16.8k",
+      "stars": "17.0k",
       "description": "Vibe Coding 从入门到精通教程，AI 结对编程工作流，Prompt、Skill、Workflow 实战指南",
       "tags": [
         "Python",
@@ -189,7 +189,7 @@
     {
       "name": "khazix-skills",
       "fullName": "KKKKhazix/khazix-skills",
-      "stars": "21.0k",
+      "stars": "21.1k",
       "description": "数字生命卡兹克开源的 AI Skills 合集，包含文档洁癖、数据可视化分析、写作助手等",
       "tags": [
         "Python",
